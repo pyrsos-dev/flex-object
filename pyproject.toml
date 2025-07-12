@@ -1,0 +1,10 @@
+[project]
+name = "flex-object-example"
+version = "0.0.1"
+description = "FlexObject — Flexible Data Aggregation & Object Creation"
+authors = [{ name = "Evangelos Garaganis", email = "mail@egaraganis.dev" }]
+dependencies = [
+    "fastapi",
+    "uvicorn[standard]"
+]
+requires-python = ">=3.9"

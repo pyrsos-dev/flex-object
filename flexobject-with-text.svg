@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10.359 2.416 404.987 152.875" width="800px" height="600px" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient id="gradient-1">
+      <stop offset="0" style="stop-color: rgb(12, 177, 250);"/>
+      <stop offset="0.547" style="stop-color: rgb(255, 0, 0);"/>
+      <stop offset="1" style="stop-color: rgb(255, 207, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-4">
+      <stop style="stop-color: rgb(12, 177, 250);" offset="0"/>
+      <stop style="stop-color: rgb(255, 0, 0);" offset="0.392"/>
+      <stop offset="0.68" style="stop-color: rgb(88, 235, 55);"/>
+      <stop style="stop-color: rgb(255, 207, 0);" offset="1"/>
+    </linearGradient>
+    <linearGradient id="gradient-2">
+      <stop offset="0" style="stop-color: rgb(255, 211, 0);"/>
+      <stop offset="1" style="stop-color: rgb(255, 0, 0);"/>
+    </linearGradient>
+    <linearGradient id="gradient-3">
+      <stop offset="0" style="stop-color: rgb(250, 196, 35);"/>
+      <stop offset="1" style="stop-color: rgb(23, 187, 99);"/>
+    </linearGradient>
+    <linearGradient id="gradient-1-0" href="#gradient-1" gradientUnits="userSpaceOnUse" x1="120.417" y1="381.516" x2="120.417" y2="471.122" gradientTransform="matrix(0.616519, 0, 0, 0.601876, 16.435841, -272.511566)"/>
+    <linearGradient id="gradient-2-0" href="#gradient-2" gradientUnits="userSpaceOnUse" x1="384.71" y1="397.945" x2="384.71" y2="487.551" gradientTransform="matrix(0.635531, 0, 0, 0.629108, -131.402756, 5.301758)"/>
+    <linearGradient id="gradient-3-0" href="#gradient-3" gradientUnits="userSpaceOnUse" x1="458.159" y1="290.54" x2="458.159" y2="380.146" gradientTransform="matrix(0.516442, 0, 0, 0.489889, 168.397995, -2.435866)"/>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="250.366" y1="117.21" x2="250.366" y2="386.348" id="gradient-0" gradientTransform="matrix(1, 0, 0, 1, -39.027336, -126.242126)">
+      <stop offset="0" style="stop-color: rgb(0% 0% 0% / 0)"/>
+      <stop offset="1" style="stop-color: rgb(0% 0% 0% / 0)"/>
+    </linearGradient>
+    <linearGradient id="gradient-4-0" href="#gradient-4" gradientUnits="userSpaceOnUse" x1="250.366" y1="117.21" x2="250.366" y2="386.348" gradientTransform="matrix(1, 0, 0, 1, -39.027336, -126.242126)"/>
+    <style bx:fonts="Figtree">@import url(https://fonts.googleapis.com/css2?family=Figtree%3Aital%2Cwght%400%2C300..900%3B1%2C300..900&amp;display=swap);</style>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, -14.615729, -10.597339)">
+    <g transform="matrix(0.386238, 0, 0, 0.38638, -152.058609, -41.444347)" style="transform-origin: 224.282px 134.57px;">
+      <ellipse style="fill: url(&quot;#gradient-0&quot;); stroke: url(&quot;#gradient-4-0&quot;); stroke-width: 1;" cx="211.339" cy="125.537" rx="135.902" ry="134.569"/>
+      <ellipse style="stroke-width: 1; stroke: rgba(0, 218, 226, 0); fill: rgb(255, 0, 0);" cx="191.228" cy="205.615" rx="43.227" ry="41.062"/>
+      <ellipse style="stroke-width: 1; stroke: rgba(0, 218, 226, 0); fill: rgb(40, 153, 248);" cx="283.25" cy="153.006" rx="48.37" ry="49.383"/>
+      <ellipse style="stroke-width: 1; stroke: rgba(0, 218, 226, 0); fill: rgb(0, 191, 99);" cx="165.523" cy="90.587" rx="66.743" ry="67.285"/>
+      <ellipse style="stroke-width: 1; stroke: rgba(0, 218, 226, 0); fill: rgb(255, 223, 0);" cx="267.97" cy="56.187" rx="32.004" ry="33.897"/>
+      <ellipse style="stroke-width: 1; stroke: rgba(0, 218, 226, 0); fill-rule: nonzero; fill: url(&quot;#gradient-1-0&quot;);" cx="90.675" cy="-15.92" rx="27.753" ry="26.966"/>
+      <ellipse style="stroke-width: 1; stroke: rgba(0, 218, 226, 0); fill-rule: nonzero; fill: url(&quot;#gradient-2-0&quot;);" cx="113.093" cy="283.839" rx="28.608" ry="28.186"/>
+      <ellipse style="stroke-width: 1; stroke: rgba(0, 218, 226, 0); fill-rule: nonzero; fill: url(&quot;#gradient-3-0&quot;); transform-box: fill-box; transform-origin: 50% 50%;" cx="405.01" cy="161.845" rx="23.248" ry="21.948" transform="matrix(0, 1, -1, 0, -41.315096, -129.510393)"/>
+    </g>
+    <text style="fill: rgb(255, 255, 255); font-family: Figtree; font-size: 17.1373px; white-space: pre;" transform="matrix(1.679288, 0, 0, 1.80892, -523.138306, -344.018677)" x="390.349" y="216.15">FLEX</text>
+    <text style="fill: rgb(255, 255, 255); font-family: Figtree; font-size: 28px; stroke-miterlimit: 8.64; white-space: pre;" transform="matrix(3.216526, -0.016993, 0, 3.18354, -1207.046631, -792.743408)" x="414.771" y="290.512">BJECT</text>
+  </g>
+</svg>
