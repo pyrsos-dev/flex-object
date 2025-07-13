@@ -82,6 +82,11 @@ data = await obj.create(fields=["field_a", "field_b"], parallel=True)  # async f
 | Async with side effects   | External writes (DB, cache, etc.)            | ⚠️ Caution      | Ensure idempotency / isolation               |
 | Stateful logic            | Relies on order or mutable shared state      | ❌ No          | Not safe for parallel execution               |
 
+> ⚠️ **Note on `parallel`**
+>
+> The `parallel=True` flag enables concurrent execution of async field methods using `asyncio`. 
+> This improves performance for I/O-bound tasks (e.g. DB calls), but is **not** true multithreading or multiprocessing.
+> The term *parallel* is used for clarity, though it technically refers to *concurrent* async execution.
 
 ## Summary
 
