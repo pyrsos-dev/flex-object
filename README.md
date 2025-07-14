@@ -1,4 +1,4 @@
-<img src="./flexobject-with-text.svg" alt="Flex Object Logo" height="300"/>
+<img src="./flexobject-with-text.svg" alt="Flex Object Logo" width="400" height="160"/>
 
 # FlexObject — Flexible Data Aggregation & Object Creation
 
